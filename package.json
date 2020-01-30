@@ -2,7 +2,7 @@
   "name": "face-recognition",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://brave-kowalevski-9f9922.netlify.com",
+  "homepage": "https://itsbenduncan-face-recognition.herokuapp.com/",
   "dependencies": {
     "bufferutil": "^4.0.1",
     "clarifai": "^2.9.1",
