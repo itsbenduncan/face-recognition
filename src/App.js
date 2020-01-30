@@ -87,7 +87,7 @@ class App extends Component {
 
   onPictureSubmit = () => {
     this.setState({imageURL: this.state.input});
-    fetch('https://itsbenduncan-face-recognition.herokuapp.com/image', {
+    fetch('https://guarded-ocean-49099.herokuapp.com/image', {
       method: 'post',
       headers: {'Content-Type': 'application/json'},
       body: JSON.stringify({
