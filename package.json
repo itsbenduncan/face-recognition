@@ -2,7 +2,7 @@
   "name": "face-recognition",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://itsbenduncan-face-recognition.herokuapp.com/",
+  "homepage": "https://guarded-ocean-49099.herokuapp.com/",
   "dependencies": {
     "bufferutil": "^4.0.1",
     "clarifai": "^2.9.1",
