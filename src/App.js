@@ -97,7 +97,7 @@ class App extends Component {
     .then(response => response.json())
     .then(response => {
       if (response) {
-        fetch('https://itsbenduncan-face-recognition.herokuapp.com/image', {
+        fetch('https://guarded-ocean-49099.herokuapp.com/image', {
           method: 'put',
             headers: {'Content-Type': 'application/json'},
             body: JSON.stringify({
