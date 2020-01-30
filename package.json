@@ -4,7 +4,9 @@
   "private": true,
   "homepage": "https://brave-kowalevski-9f9922.netlify.com",
   "dependencies": {
+    "bufferutil": "^4.0.1",
     "clarifai": "^2.9.1",
+    "express": "^4.17.1",
     "gh-pages": "^2.1.1",
     "node-modules": "^1.0.1",
     "react": "^16.11.0",
@@ -12,7 +14,9 @@
     "react-particles-js": "^2.7.0",
     "react-scripts": "3.3.0",
     "react-tilt": "^0.1.4",
-    "tachyons": "^4.11.1"
+    "tachyons": "^4.11.1",
+    "utf-8-validate": "^5.0.2",
+    "ws": "^7.2.1"
   },
   "scripts": {
     "start": "react-scripts start",
