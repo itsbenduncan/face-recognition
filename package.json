@@ -19,8 +19,8 @@
     "ws": "^7.2.1"
   },
   "scripts": {
-    "deploy": "serve -s build",
-    "start": "react-scripts start",
+    // "deploy": "serve -s build",
+    "start": "serve -s build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
