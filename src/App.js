@@ -80,7 +80,7 @@ class App extends Component {
   displayFaceBox = (box) => {
     this.setState({box: box});
   }
-
+// test
   onInputChange = (event) => {
     this.setState({input: event.target.value});
   }
